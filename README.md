@@ -2,7 +2,7 @@
 
 I'm Juan David, a systems engineer student at Universidad Industrial de Santander (UIS).
 
-Currently working in some Roblox projects on my free time!
+Currently working on some Roblox projects in my free time!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UntetheredJ&show_icons=true&theme=radical)](https://github.com/UntetheredJ/github-readme-stats)
 
