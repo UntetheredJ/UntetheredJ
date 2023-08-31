@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Juan David, currently a systems engineer student at Universidad Industrial de Santander (UIS).
+
+Currently working in some Roblox projects on my free time!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UntetheredJ)](https://github.com/UntetheredJ/github-readme-stats)
+
 <!--
 **UntetheredJ/UntetheredJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
