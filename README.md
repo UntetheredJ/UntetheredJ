@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Juan David, a systems engineer student at Universidad Industrial de Santander (UIS).
+I'm Juan David, a systems engineering student at Universidad Industrial de Santander (UIS).
 
 Currently working on some Roblox projects in my free time!
 
