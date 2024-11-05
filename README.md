@@ -8,12 +8,12 @@ Currently working on some Roblox projects in my free time! You can find my games
   <tr>
     <td>
       <a href="https://github.com/UntetheredJ">
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=UntetheredJ&show_icons=true&hide_border=true&theme=radical" />
+        <img height=200 src="https://github-readme-stats.vercel.app/api?username=UntetheredJ&show_icons=true&hide_border=true&theme=dracula" />
       </a>
     </td>
     <td>
       <a href="https://github.com/UntetheredJ">
-        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=UntetheredJ&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=radical" />
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=UntetheredJ&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=dracula" />
       </a>
     </td>
   </tr>
