@@ -40,6 +40,8 @@ As a Roblox game developer, I have gained experience with:
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
 </p>
 
+I'm working as a programmer on a Roblox game called GoKart Obby. You can play it [here!](https://www.roblox.com/games/18777949415/Gokart-Obby)
+
 # GitHub Stats
 
 <table align="center">
