@@ -1,9 +1,9 @@
 # About Me
 ### Hi there 👋
 
-I'm Juan David, a systems engineering student at Universidad Industrial de Santander (UIS), about to be a graduate!
+I'm Juan David, a systems engineer student from Universidad Industrial de Santander (UIS)!
 
-I have been working with the [Calumet](https://github.com/calumet) software development group since 2023 as a full stack developer using the following technologies:
+I have been working with the [Calumet](https://github.com/calumet) software development group from 2023 to 2025 as a full stack developer using the following technologies:
 <p>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
