@@ -1,9 +1,17 @@
 # About Me
 ### Hi there 👋
 
-I'm Juan David, a systems engineer student from Universidad Industrial de Santander (UIS)!
+I'm Juan David, a systems engineer graduate from Universidad Industrial de Santander (UIS)!
 
-I have been working with the [Calumet](https://github.com/calumet) software development group from 2023 to 2025 as a full stack developer using the following technologies:
+I'm working on some **Roblox** projects as my main focus. You can find my games [here.](https://www.roblox.com/groups/11529724/Untethered-Games)
+As a Roblox game developer, I have gained experience with:
+<p>
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
+</p>
+
+I'm working as a programmer in HomeGames LLC. You can find our games [here!]([https://www.roblox.com/games/18777949415/Gokart-Obby](https://www.roblox.com/communities/15056134/HomeGames#!/about))
+
+I worked with the [Calumet](https://github.com/calumet) software development group from 2023 to 2025 as a full stack developer using the following technologies:
 <p>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
@@ -33,14 +41,6 @@ I have contributed in several projects during my university degree, which includ
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
   
 </p>
-
-I'm also working on some **Roblox** projects during my free time! You can find my games [here.](https://www.roblox.com/groups/11529724/Untethered-Games)
-As a Roblox game developer, I have gained experience with:
-<p>
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
-</p>
-
-I'm working as a programmer on a Roblox game called GoKart Obby. You can play it [here!](https://www.roblox.com/games/18777949415/Gokart-Obby)
 
 # GitHub Stats
 
