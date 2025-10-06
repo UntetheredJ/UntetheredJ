@@ -9,7 +9,7 @@ As a Roblox game developer, I have gained experience with:
   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">
 </p>
 
-I'm working as a programmer in HomeGames LLC. You can find our games [here!](https://www.roblox.com/communities/15056134/HomeGames#!/about)
+I'm working as a Lead Developer in Studsy LLC (previously HomeGames LLC). You can find our games [here!](https://www.roblox.com/communities/15056134/HomeGames#!/about)
 
 I worked with the [Calumet](https://github.com/calumet) software development group from 2023 to 2025 as a full stack developer using the following technologies:
 <p>
