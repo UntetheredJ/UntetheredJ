@@ -57,13 +57,6 @@ I have contributed in several projects during my university degree, which includ
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan=2 align=center>
-      <a href="https://github.com/UntetheredJ">
-        <img height=200 src="https://streak-stats.demolab.com/?user=UntetheredJ&theme=dracula&hide_border=true" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 
